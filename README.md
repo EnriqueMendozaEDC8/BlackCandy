@@ -6,6 +6,7 @@ Open the terminal in the folder and Type `python app.py`
 
 
 ## Architecture
+![Alt text](Diagram.png?raw=true "Title")
 
 Listener: is an interface of your Application .
 
